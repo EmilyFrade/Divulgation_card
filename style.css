@@ -1,0 +1,46 @@
+.card{
+    width: 400px;
+    height: 200px;
+    background-image: url(./Images/Fundo.jpg);
+    background-size: 400px 200px;
+    margin: auto;
+    margin-top: 10%;
+}
+
+#name{
+    color: bisque;
+    font-style: italic;
+    font: "Times New Roman";
+    width: 200px;
+    margin-left: 125px;
+    padding-top: 10px;
+    margin-bottom: 0;
+}
+
+#separator{
+    width: 400px;
+    margin-left: 0px;
+}
+
+#About{
+    color: bisque;
+    margin-left: 70px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.images{
+    margin-left: 30px;
+}
+
+.link{
+    text-decoration: none;
+    color: bisque;
+
+}
+
+.address{
+    display: inline;
+    color: bisque;
+    margin-left: 90px;
+}
